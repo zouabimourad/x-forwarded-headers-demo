@@ -12,5 +12,3 @@ services:
     build: proxy1/.
     ports:
       - "443:443"
-
-
